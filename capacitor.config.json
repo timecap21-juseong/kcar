@@ -1,0 +1,12 @@
+{
+  "appId": "com.example.app",
+  "appName": "My App",
+  "webDir": "public",
+  "bundledWebRuntime": false,
+  "plugins": {},
+  "cordova": {},
+  "server": {
+    "url": "http://localhost:8100",
+    "cleartext": true
+  }
+}
